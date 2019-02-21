@@ -77,7 +77,8 @@
     "uglify-js": "3.4.9",
     "when": "3.7.8",
     "ws": "1.1.5",
-    "xml2js": "0.4.19"
+    "xml2js": "0.4.19",
+    "uri-js": "4.2.2"
   },
   "optionalDependencies": {
     "bcrypt": "~2.0.0"
