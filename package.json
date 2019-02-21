@@ -115,6 +115,7 @@
     "webdriverio": "^4.14.0"
   },
   "engines": {
-    "node": ">=8"
-  }
+    "node": "8.x",
+    "npm": "5.x"
+  },
 }
